@@ -1,0 +1,25 @@
+.header, .footer {
+    background-color: #1F2937;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.upper-links {
+    display: flex;
+    align-items: center;
+}
+
+.header-text {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
