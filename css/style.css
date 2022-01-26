@@ -31,7 +31,7 @@ ul {
     text-decoration: none;
 }
 
-li, .sechero {
+li, .sechero, .footer{
 font-size: 18px;
 color: #E5E7EB;
 }
@@ -189,7 +189,19 @@ button {
     font-weight: bold;
 }
 
+.textly4 {
+    color: #E5E7EB;
+}
+
 .button2 {
     border-color: white;
     padding: 5px 20px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    font-size: 15px;
 }
