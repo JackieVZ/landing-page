@@ -155,11 +155,14 @@ button {
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
+    max-width: 950px;
+    align-self: center;
 }
 
 .author {
     font-weight: bolder;
     font-size: 25px;
-    align-self: flex-end;
-    margin-top: -10px;
+    align-self: center;
+    margin-top: -40px;
+    margin-left: 550px;
 }
