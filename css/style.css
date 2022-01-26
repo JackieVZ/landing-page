@@ -166,3 +166,30 @@ button {
     margin-top: -40px;
     margin-left: 550px;
 }
+
+.layout4 {
+    display: flex;
+    flex-flow: row nowrap;
+    background-color: #3882F6;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 50px;
+    margin: 120px;
+    border-radius: 10px;
+}
+
+.textcontainerl4 {
+    margin-left: 290px;
+    margin-right: 200px;
+}
+
+.texthly4 {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.button2 {
+    border-color: white;
+    padding: 5px 20px;
+}
